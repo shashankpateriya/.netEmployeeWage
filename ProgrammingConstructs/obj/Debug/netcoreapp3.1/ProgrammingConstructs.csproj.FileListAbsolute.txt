@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\ProgrammingConstructsSolution\ProgrammingConstructs\obj\Debug\netcoreapp3.1\ProgrammingConstructs.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ProgrammingConstructsSolution\ProgrammingConstructs\obj\Debug\netcoreapp3.1\ProgrammingConstructs.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ProgrammingConstructsSolution\ProgrammingConstructs\obj\Debug\netcoreapp3.1\ProgrammingConstructs.AssemblyInfo.cs
+C:\Users\hp\source\repos\ProgrammingConstructsSolution\ProgrammingConstructs\obj\Debug\netcoreapp3.1\ProgrammingConstructs.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ProgrammingConstructsSolution\ProgrammingConstructs\bin\Debug\netcoreapp3.1\ProgrammingConstructs.exe
+C:\Users\hp\source\repos\ProgrammingConstructsSolution\ProgrammingConstructs\bin\Debug\netcoreapp3.1\ProgrammingConstructs.deps.json
+C:\Users\hp\source\repos\ProgrammingConstructsSolution\ProgrammingConstructs\bin\Debug\netcoreapp3.1\ProgrammingConstructs.runtimeconfig.json
+C:\Users\hp\source\repos\ProgrammingConstructsSolution\ProgrammingConstructs\bin\Debug\netcoreapp3.1\ProgrammingConstructs.runtimeconfig.dev.json
+C:\Users\hp\source\repos\ProgrammingConstructsSolution\ProgrammingConstructs\bin\Debug\netcoreapp3.1\ProgrammingConstructs.dll
+C:\Users\hp\source\repos\ProgrammingConstructsSolution\ProgrammingConstructs\bin\Debug\netcoreapp3.1\ProgrammingConstructs.pdb
+C:\Users\hp\source\repos\ProgrammingConstructsSolution\ProgrammingConstructs\obj\Debug\netcoreapp3.1\ProgrammingConstructs.dll
+C:\Users\hp\source\repos\ProgrammingConstructsSolution\ProgrammingConstructs\obj\Debug\netcoreapp3.1\ProgrammingConstructs.pdb
+C:\Users\hp\source\repos\ProgrammingConstructsSolution\ProgrammingConstructs\obj\Debug\netcoreapp3.1\ProgrammingConstructs.genruntimeconfig.cache
